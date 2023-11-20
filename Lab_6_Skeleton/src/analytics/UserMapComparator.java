@@ -10,7 +10,7 @@ import model.User;
 
 /**
  *
- * @author shivaranjanijayanna
+ * @author goutam
  */
 public class UserMapComparator implements Comparator<User> {
     HashMap<Integer, Integer> userPostMap;
